@@ -1,0 +1,20 @@
+{
+  "name": "kongvert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "kongvert": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelemur/kongvert.git"
+  },
+  "keywords": [],
+  "author": "Andrew Wylde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelemur/kongvert/issues"
+  },
+  "homepage": "https://github.com/codelemur/kongvert#readme",
+  "description": ""
+}
